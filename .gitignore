@@ -40,3 +40,6 @@ obj/Debug/net6.0/web-app-crud-contacts.pdb
 .dll
 .pdb
 .exe
+
+#visual studio IDE config
+.vs
