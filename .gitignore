@@ -41,5 +41,15 @@ obj/Debug/net6.0/web-app-crud-contacts.pdb
 .pdb
 .exe
 
-#visual studio IDE config
-.vs
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
